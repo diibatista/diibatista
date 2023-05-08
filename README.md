@@ -1,7 +1,7 @@
 ### 👋Olá!, Sou o Diego Batista
 
 - 🔭 Atualmente trabalho como Dev VB.NET  
-- 🌱 Estudando C# e Xamarin
+- 🌱 Fazendo a faculdade de ADS
 - 😄 Pronouns: Ele/dele
  ##
 <div align="center">
